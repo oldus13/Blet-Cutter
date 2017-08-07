@@ -2,8 +2,10 @@
  Name:		BeltCutterFw.ino
  Created:	7/31/2017 8:43:01 PM
  Author:	oldus13
-
+ 
+ Boards: 	Rambo Mini 1.3a
 */
+
 #include <LiquidCrystal.h>
 
 
